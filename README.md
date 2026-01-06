@@ -5,7 +5,6 @@ I am a seasoned **Software Engineer** and **Technical Lead** with over a decade 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **AI-powered tools**.
-- 💡 I have led development teams and built applications serving hundreds of thousands of users.
 - 🌱 My interests include **Generative AI**, **LLMs**, and **IoT**.
 - 👯 I’m looking to collaborate on innovative projects.
 
